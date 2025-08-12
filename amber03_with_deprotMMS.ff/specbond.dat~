@@ -1,0 +1,15 @@
+8
+CYS	SG	1	CYS	SG	1	0.2	CYS2	CYS2
+CYS	SG	1	HEM 	FE	2	0.25	CYS2	HEME
+CYS	SG	1	HEM 	CAB	1	0.18	CYS2	HEME
+CYS	SG	1	HEM 	CAC	1	0.18	CYS2	HEME
+HIS	NE2	1	HEM 	FE	1	0.2	HIS1	HEME
+MET	SD	1	HEM 	FE	1	0.24	MET	HEME
+CO      C       1       HEME    FE      1       0.19    CO      HEME
+CYM     SG      1       CYM     SG      1       0.2     CYS2    CYS2
+MH1   BO1     1       AL3     AL      6       0.19    MMSH1   AL3
+MH1   BOH1    1       AL3     AL      6       0.19    MMSH1   AL3
+MH2   BO2     1       AL3     AL      6       0.19    MMSH2   AL3
+MH2   BOH2    1       AL3     AL      6       0.19    MMSH2   AL3
+MH3   BO3     1       AL3     AL      6       0.19    MMSH3   AL3
+MH3   BOH3    1       AL3     AL      6       0.19    MMSH3   AL3
